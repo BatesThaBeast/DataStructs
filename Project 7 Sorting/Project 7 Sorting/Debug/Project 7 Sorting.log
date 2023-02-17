@@ -1,0 +1,28 @@
+﻿  Project 7 Sorting.cpp
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:         with
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:         [
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:             _Ty=double
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:         ]
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:         with
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:         [
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:             _Ty=double
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:         ]
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(75,21): warning C4018: '<': signed/unsigned mismatch
+  Sorting.cpp
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:         with
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:         [
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:             _Ty=double
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,49): warning C4244:         ]
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:         with
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:         [
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:             _Ty=double
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(57,26): warning C4244:         ]
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(75,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Project 7 Sorting\Sorting.h(91,21): warning C4018: '<': signed/unsigned mismatch
+  Project 7 Sorting.vcxproj -> C:\Users\s\Documents\Visual Studio 2019\Johnathan's Programs\Project 7 Sorting\Debug\Project 7 Sorting.exe
