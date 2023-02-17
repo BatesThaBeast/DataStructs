@@ -1,0 +1,4 @@
+﻿  Project 2 Generics and Templates.cpp
+C:\Users\John Bates\Data Structure projects from school\Project 2 Generics and Templates\Project 2 Generics and Templates\PairList.h(50,2): error C3861: 'LLData': identifier not found
+C:\Users\John Bates\Data Structure projects from school\Project 2 Generics and Templates\Project 2 Generics and Templates\PairList.h(56,2): error C3861: 'LLData': identifier not found
+C:\Users\John Bates\Data Structure projects from school\Project 2 Generics and Templates\Project 2 Generics and Templates\PairList.h(61,15): error C3861: 'LLData': identifier not found
