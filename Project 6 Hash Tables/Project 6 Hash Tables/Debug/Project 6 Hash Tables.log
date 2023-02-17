@@ -1,0 +1,7 @@
+﻿  Project 6 Hash Tables.cpp
+C:\Users\New\source\repos\Project 6 Hash Tables\Project 6 Hash Tables\HashTable.h(42,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\New\source\repos\Project 6 Hash Tables\Project 6 Hash Tables\HashTable.h(202,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\New\source\repos\Project 6 Hash Tables\Project 6 Hash Tables\HashTable.h(218,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\New\source\repos\Project 6 Hash Tables\Project 6 Hash Tables\HashTable.h(228,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\New\source\repos\Project 6 Hash Tables\Project 6 Hash Tables\Project 6 Hash Tables.cpp(58,22): warning C4018:  '<': signed/unsigned mismatch
+  Project 6 Hash Tables.vcxproj -> C:\Users\New\source\repos\Project 6 Hash Tables\Debug\Project 6 Hash Tables.exe
